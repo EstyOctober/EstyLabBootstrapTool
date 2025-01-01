@@ -74,3 +74,4 @@ Assets/ShaderlabVSCode*
 Assets/Sound files Wind*
 Assets/SpaceNavigator*
 
+!/Packages/estylab.bootstrap
