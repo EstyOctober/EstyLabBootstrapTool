@@ -62,3 +62,15 @@ crashlytics-build.properties
 Assets/PackageMakerWindowData.asset*
 .idea
 .vscode
+
+Assets/Bakery*
+Assets/Editor/x64/Bakery*
+Assets/ConsolePro*
+Assets/Plugins/Borodar/RainbowFolders*
+Assets/EnhancedHierarchy*
+Assets/FindReference2*
+Assets/SelectionHistory*
+Assets/ShaderlabVSCode*
+Assets/Sound files Wind*
+Assets/SpaceNavigator*
+
