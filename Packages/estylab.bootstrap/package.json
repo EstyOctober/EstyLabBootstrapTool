@@ -1,9 +1,9 @@
 {
   "name": "estylab.bootstrap",
-  "displayName": "EstyLab Bootsrapt Tool for VRChat",
-  "version": "0.0.1",
+  "displayName": "EstyLab Bootstrap Tool for VRChat",
+  "version": "0.0.2",
   "unity": "2022.3.22f1",
-  "description": "EstyLab Bootsrapt Tool for VRChat",
+  "description": "EstyLab Bootstrap Tool for VRChat",
   "vrchatVersion": "2022.1.1",
   "author": {
     "name": "EstyOctober",
